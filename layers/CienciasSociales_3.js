@@ -1,0 +1,1 @@
+var json_CienciasSociales_3 = {"type":"FeatureCollection","name":"CienciasSociales_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Destino":"Ciencias Sociales"},"geometry":{"type":"Point","coordinates":[-84.042234826553411,9.937798618596691]}}]}
